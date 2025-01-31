@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+     <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(67135243, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/67135243" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	<title>Оценка стоимости ущерба имущества и убытков в Новосибирске</title>
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no">
+	<!-- <link rel="stylesheet" href="css/style.min.css?version=2.0.0.0"> -->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Оценка ущерба поврежденного имущества и подсчет убытков в Новосибирске. Звоните нам - окажем услугу экспертизы стоимости.">
+</head>
+
+<body>
+	<div class="wrapper">
+		<header class="header">
+	<div class="header__content">
+		<div class="header__top top-header">
+			<div class="top-header__container _container">
+				<div class="top-header__item top-header__item_adress">
+					<picture><source srcset="img/icons/pin.svg" type="image/webp"><img class="top-header__icon" src="img/icons/pin.svg" alt="Pin"></picture>
+					<span class="top-header__text">г.Новосибирск, ул. Челюскинцев 14/2 офис № 414</span>
+				</div>
+				<div class="top-header__item top-header__item_mail">
+					<picture><source srcset="img/icons/mail.svg" type="image/webp"><img class="top-header__icon" src="img/icons/mail.svg" alt="mail"></picture>
+					<span class="top-header__text">Novo-20@mail.ru</span>
+				</div>
+				<a class="top-header__item top-header__item_phone" href="tel:+73832589600">
+					<picture><source srcset="img/icons/phone.svg" type="image/webp"><img class="top-header__icon" src="img/icons/phone.svg" alt="phone"></picture>
+					<span class="top-header__text">+7(383) 258-96-00</span>
+				</a>
+				<div class="top-header__item top-header__item_shedule">
+					<picture><source srcset="img/icons/shedule.svg" type="image/webp"><img class="top-header__icon" src="img/icons/shedule.svg" alt="shedule"></picture>
+					<span class="top-header__text">Пн-Пт с 10:00 до 18:00</span>
+				</div>
+				<ul class="top-header__list social-list">
+					<li><a href="tg://resolve?domain=@Novaya_Zarya" class="social-list__link" target="_blank"><picture><source srcset="img/icons/tg.svg" type="image/webp"><img src="img/icons/tg.svg" alt="telegramm"></picture></a></li>
+					<li><a href="https://vk.com/ocenka_2020" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vk.svg" type="image/webp"><img src="img/icons/vk.svg" alt="вконтакте"></picture></a></li>
+					<li><a href="https://api.whatsapp.com/send?phone=79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/wa.svg" type="image/webp"><img src="img/icons/wa.svg" alt="watsapp"></picture></a></li>
+					<li><a href="https://viber.click/79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vb.webp" type="image/webp"><img src="img/icons/vb.png" alt="viber"></picture></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header__wrapper-bg">
+			<div class="header__bottom bottom-header">
+				<div class="bottom-header__container _container">
+					<div class="bottom-header__logo logo">
+						<div class="logo__icon _icon-logo"></div>
+						<div class="logo__name">
+							<div class="logo__subtitle">Новая Заря</div>
+							<div class="logo__suptitle">Центр экспертизы</div>
+						</div>
+					</div>
+					<div class="bottom-header__menu menu">
+						<div data-da=".bottom-header__container, 992, 3" class="menu__icon icon-menu">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+						<nav class="menu__body">
+							<ul class="menu__list">
+								<li><a href="#about-us" class="menu__link  _goto">О компании</a></li>
+								<li><a href="#services" class="menu__link _goto">Услуги</a></li>
+								<li><a href="#steps" class="menu__link _goto">Порядок работы</a></li>
+								<li><a href="#certificates" class="menu__link _goto">Лицензии</a></li>
+								<li><a href="#reviews" class="menu__link _goto">Отзывы</a></li>
+								<li><a href="#map" class="menu__link _goto">Контакты</a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="bottom-header__button"> <a href="#main" class="bottom-header__btn _btn _popup-link">Обратный звонок</a></div>
+				</div>
+			</div>
+			<div class="header__welcome welcome">
+				<div class="welcome__container _container">
+					<div class="welcome__column">
+						<h1 class="welcome__title title">Оценка ущерба поврежденного имущества в Новосибирске</h1>
+
+						<div class="welcome__label" style="margin: 80px 0;">
+							<picture><source srcset="img/icons/info.webp" type="image/webp"><img class="welcome__icon" src="img/icons/info.png" alt="info"></picture>
+							<p class="welcome__text">Работа по <a href="#">договору</a> и точно в <a href="">срок</a></p>
+						</div>
+
+						<div class="flex_main_btns_block">
+							<a href="#main" class="welcome__btn _btn _popup-link">Бесплатная консультация</a>
+						</div>
+						
+						
+					</div>
+					<div class="welcome__image">
+						<!-- <picture><source srcset="img/welcome/man.webp" type="image/webp"><img src="img/welcome/man.png" alt="man"></picture> -->
+						<picture>
+							<source srcset="img/welcome/man-s.webp" media="(max-width: 600px)">
+							<source srcset="img/welcome/man.webp">
+							<img src="img/welcome/man.webp" alt="man">
+						</picture>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<style>
+	.c_text {
+		padding: 30px 0; 
+		white-space: pre-wrap;
+		word-wrap: break-word;
+		font-size: 20px;
+		line-height: 120%;
+		margin-bottom: 80px;
+	}
+	.c_text h2 {
+		font-weight: 600;
+		font-size: 26px;
+		margin: 0;
+		padding: 0;
+		margin-top: 10px;
+	}
+</style>
+		<main class="page">
+
+			<section class="_container c_text">
+Жизнь непредсказуема, и далеко не всегда события складываются благоприятно. Каждый гражданин рано или поздно сталкивается с ситуациями, которые могут нарушить его материальное благополучие: авария на дороге, случайное повреждение чужого имущества или получение ущерба от действий третьих лиц.
+ 
+Надо уметь грамотно действовать в обстоятельствах, к примеру, когда арендатор нанес ущерб квартире. Здесь стоит обратить внимание на правильный алгоритм действий.
+ 
+Существует два принципиальных сценария взаимодействия при имущественном ущербе:
+1. Вам причинили материальный ущерб.
+2. Вы стали источником повреждения чужого имущества.
+ 
+В первом случае главная задача – получить справедливую компенсацию, во втором – максимально снизить финансовые и репутационные потери.
+ 
+Далее мы рассмотрим практические шаги и стратегии действий в подобных ситуациях.
+ 
+<h2>Основные сценарии возникновения имущественных споров</h2>
+
+Аварийные ситуации с недвижимостью требуют системного подхода и профессиональной подготовки. В отличие от дорожно-транспортных происшествий, где алгоритм действий более чёткий, возмещение ущерба при повреждении жилья или офиса имеет множество нюансов.
+ 
+<b>1. Повреждения по вине третьих лиц:</b>
+— Затопление квартиры соседями или коммунальными службами
+— Протечка крыши или нарушение герметичности стен
+— После пожара из-за действий арендаторов или посторонних лиц
+— Разрушения при неправильной перепланировке соседей
+ 
+<b>2. Конфликтные ситуации при оценке ущерба:</b>
+— Необоснованно завышенные требования потерпевшей стороны
+— Несогласие с суммой страховых выплат
+— Потребность в независимой экспертизе
+— Необходимость юридического сопровождения судебного процесса
+ 
+Будьте готовы к длительному и затратному процессу урегулирования. Успех зависит от полного сбора доказательств, профессиональной юридической поддержки, хладнокровия и последовательности действий.
+
+<h2>Правовая защита имущественных интересов</h2>
+
+Когда имуществу причиняют вред – будь то затопленная квартира, пожар или автомобильная авария – каждый гражданин имеет юридические инструменты для защиты своих прав и компенсации понесенных убытков.
+ 
+Статья 15 Гражданского Кодекса РФ защищает интересы пострадавшей сторны, раскрывая механизмы возмещения ущерба.
+ 
+Важные положения законодательства:
+ 
+1. Полное возмещение ущерба. Пострадавшая сторона вправе требовать полной компенсации всех понесенных убытков. Исключения возможны только при прямом указании закона или специальных договорных условиях.
+2. Структура убытков. Убытки включают два ключевых компонента. Реальный ущерб – это фактические расходы на восстановление нарушенного права, прямые потери имущества и затраты, необходимые для приведения имущества в первоначальное состояние. Упущенная выгода – это неполученные доходы, которые могли быть при нормальных обстоятельствах и потенциальный заработок, утраченный в результате противоправных действий.
+ 
+Если арендатор повредил имущество, собственник может требовать стоимость ремонта и восстановления (реальный ущерб от залива квартиры, как пример) и компенсацию за время, когда квартира была непригодна для сдачи (упущенная выгода)
+ 
+1. Дополнительные механизмы защиты. Если нарушитель получил доход в результате противоправных действий, пострадавшая сторона может требовать возмещения упущенной выгоды не ниже полученного нарушителем дохода.
+ 
+Правовое регулирование оценочной деятельности в России базируется на чётких законодательных нормах, которые регламентируют порядок определения имущественного ущерба.
+ 
+Статья 8 Федерального закона №135-ФЗ "Об оценочной деятельности" чётко устанавливает: при возникновении имущественного спора проведение независимой оценки ущерба является обязательным.
+ 
+Кто имеет право проводить оценку ущерба:
+— Компании с соответствующей лицензией
+— Индивидуальные предприниматели
+— Независимые эксперты, имеющие полис страхования профессиональной ответственности
+ 
+Оценщики руководствуются утвержденными правительством стандартами. По большей части они используют документ – "Стандарты оценки, обязательные для применения субъектами оценочной деятельности".
+ 
+Стоимость имущества определяется затратами на его воспроизведение или замену.
+ 
+Механизм расчета включает:
+— Определение восстановительной стоимости
+— Расчет совокупного износа
+— Оценку остаточной стоимости объекта
+ 
+Основные составляющие восстановительной стоимости:
+1. Ремонт внутренней отделки.
+2. Восстановление мебели.
+3. Замена техники.
+4. Воссоздание документов и баз данных.
+
+<h2>Методология определения и расчета имущественного ущерба</h2>
+
+Процесс оценки ущерба после неприятной ситуации с недвижимостью – это структурированный план действий, включающий три этапа.
+
+<b>Этап 1: Определение рыночной стоимости восстановительных работ</b>
+Основные направления экспертизы и оценки:
+— Расчет сметной стоимости ремонтно-строительных работ
+— Оценка стоимости ремонта имущества
+— Определение затрат на восстановление пострадавших предметов
+
+<b>Этап 2: Расчет совокупного износа</b>
+Ключевые компоненты износа:
+— Физический износ
+— Функциональный износ
+— Внешний износ
+ 
+Метод определения физического износа жилых помещений происходит согласно правилу ВСН 53-86(р), а прочее имущество экспертной оценкой ущерба.
+
+<b>Этап 3: Финальный расчет ущерба</b>
+Итоговая сумма определяется с учетом:
+— Полной цены восстановления
+— Процента совокупного износа
+— Рыночной стоимости
+
+<h2>Сколько стоит провести оценку ущерба недвижимости?</h2>
+
+Определение стоимости оценки ущерба — это комплексный процесс, который складывается из нескольких ключевых параметров. Мы анализируем специфику каждого проекта, его технические нюансы и необходимый уровень экспертизы.
+ 
+В нашем центре экспертизы и оценки каждый проект уникален, поэтому специалисты индивидуально подходят к расчету стоимости работ.
+ 
+Основные факторы ценообразования включают:
+— Сложность исследования
+— Квалификацию привлекаемых экспертов
+— Временные затраты на выполнение
+— Необходимость специального оборудования
+ 
+Наша оценочная компания гарантирует прозрачное ценообразование и качественный сервис, подтвержденный многочисленными положительными отзывами клиентов. Заказать экспертизу можно, заполнив форму обратной связи или позвонить нам по номеру телефона.
+
+<h2>Оценка поврежденного имущества: стратегия действий</h2>
+
+Неожиданные ситуации с имуществом могут застать врасплох любого человека. Важно быть готовым и знать алгоритм правильных действий.
+ 
+<b>1. Сохранение доказательств</b>
+Категорически не рекомендуется самостоятельно устранять повреждения или изменять первоначальное состояние объекта. Следует зафиксировать первоначальное состояние с помощью фотографий и видеосъемки.
+
+<b>2. Независимая экспертиза и оценка ущерба</b>
+Привлечение специалистов по независимой оценки позволяет точно определить масштаб повреждений, рассчитать реальную стоимость восстановления и подготовить необходимую документацию для страховых компаний.
+ 
+Также при возникновении споров о возмещении ущерба, независимая экспертиза становится ключевым инструментом для обоснования позиции каждой из сторон в судебном процессе.
+
+<b>3. Взаимодействие сторон</b>
+Практика показывает, что конструктивный диалог между участниками инцидента значительно упрощает процесс урегулирования. Виновная сторона может предложить собственный вариант компенсации, представив альтернативные способы возмещения ущерба.
+ 
+Если речь идет о имуществе, которое планируется реализовать, целесообразно консультироваться с профессиональными оценщиками. Их рекомендации помогут не только корректно определить рыночную стоимость, но и при необходимости спланировать процесс восстановления.
+
+<h2>Оценка повреждения имущества: какие документы нужны?</h2>
+
+Для проведения точной и объективной экспертизы и оценки потребуется собрать определенный пакет документов.
+Что необходимо:
+— Документы, подтверждающие право собственности
+— Согласие владельца, если вы хотите оценить имущество, которое вам не принадлежит, необходимо получить письменное разрешение от его собственника
+— Официальные разрешения в особых случаях, к примеру, при судебных экспертиз или оформлении наследства, может потребоваться дополнительное разрешение от государственных органов
+— Документы, подтверждающие повреждения – это могут быть акты осмотра, экспертные заключения или другие свидетельства
+— В зависимости от типа имущества может потребоваться технический паспорт, чертежи или иная документация, которая содержит подробную информацию об объекте оценки
+ 
+Когда вы обращаетесь за независимой оценкой ущерба имущества, то получаете важный инструмент для принятия взвешенных решений в различных жизненных ситуациях. Правильно проведенная независимая экспертиза поможет вам защитить свои интересы и получить максимальную выгоду от владения имуществом.
+			</section>
+			  
+						  
+			<section id="steps" class="page__steps steps">
+				<div class="steps__container _container">
+					<h2 class="steps__title title">Строим работу с вами в <span>5 этапов</span></h2>
+					<ul class=" steps__controls controls">
+						<li class="controls__item _active" data-index="0"><span>Экспертная консультация</span></li>
+						<li class="controls__item" data-index="1"><span>Заключение договора</span></li>
+						<li class="controls__item" data-index="2"><span>Выезд на обьект</span></li>
+						<li class="controls__item" data-index="3"><span>Обработка данных</span></li>
+						<li class="controls__item" data-index="4"><span>Выдача отчета</span></li>
+					</ul>
+					<div class="steps__body">
+						<div class="steps__slider _swiper">
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/01.webp" type="image/webp"><img src="img/steps/01.jpg" alt="пишущая рука"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 1</div>
+										<h3 class="slide-steps__title">Экспертная консультация и оценка перспектив</h3>
+										<p class="slide-steps__description">Мы изучаем все детали вопроса и связанную с ним оценочную практику.<br>Вы получаете оценку сроков и стоимости</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body slide-steps__body_2">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/02.webp" type="image/webp"><img src="img/steps/02.jpg" alt="люди пожимают руки друг другу"></picture>
+									</div>
+									<div class="slide-steps__column slide-steps__column_2">
+										<div class="slide-steps__counter">этап 2</div>
+										<h3 class="slide-steps__title">Заключение договора</h3>
+										<p class="slide-steps__description">Изучение предоставленых документов</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/03.webp" type="image/webp"><img src="img/steps/03.jpg" alt="строительство дома"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 3</div>
+										<h3 class="slide-steps__title">Выезд на объект</h3>
+										<p class="slide-steps__description">Проведение осмотра и фотосъемки с составлением акта</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/04.webp" type="image/webp"><img src="img/steps/04.jpg" alt="человек за ноутбуком"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 4</div>
+										<h3 class="slide-steps__title">Обработка данных</h3>
+										<p class="slide-steps__description">Обработка полученных данных</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/05.webp" type="image/webp"><img src="img/steps/05.jpg" alt="человек протягивает документ другому человеку"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 5</div>
+										<h3 class="slide-steps__title">Выдача отчета</h3>
+										<p class="slide-steps__description">Этот документ имеет юридическую силу в различных инстанциях</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="steps__bullets bullets"></div>
+						<div class="steps__arrows arrows">
+							<div class="arrow arrow__left">
+								<picture><source srcset="img/icons/arrow.svg" type="image/webp"><img src="img/icons/arrow.svg" alt="arrow"></picture>
+							</div>
+							<div class="arrow arrow__right">
+								<picture><source srcset="img/icons/arrow.svg" type="image/webp"><img src="img/icons/arrow.svg" alt="arrow"></picture>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="certificates" class="page__certificates certificates">
+				<div class="certificates__container _container">
+					<h2 class="certificates__title title">Лицензии и <span>сертификаты</span></h2>
+					<p class="certificates__description">Все необходимые сертификаты и лицензии <br>на право выполнения работ, аттестация сотрудников и сертификация ISO</p>
+					<div class="certificates__body">
+						<div class="certificates__slider _swiper _gallery">
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/01-b.jpg"> <picture><source srcset="img/certificates/01.webp" type="image/webp"><img src="img/certificates/01.jpg" alt="сертификат"></picture></a>
+							</div>
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/02-b.jpg"><picture><source srcset="img/certificates/02.webp" type="image/webp"><img src="img/certificates/02.jpg" alt="сертификат"></picture></a>
+							</div>
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/04-b.jpg"><picture><source srcset="img/certificates/04.webp" type="image/webp"><img src="img/certificates/04.jpg" alt="сертификат"></picture></a>
+							</div>
+						</div>
+						<div class="certificates__progressbar"></div>
+					</div>
+				</div>
+			</section>
+			<section id="reviews" class="page__reviews reviews">
+				<div class="reviews__container">
+					<h2 class="reviews__title title"><span>Отзывы</span> о нас</h2>
+				    <h3 class="reviews__subtitle">Читайте и оставляйте отзывы о нас</h3>
+					<div class="reviews__content">
+						<a class="reviews__partner two-gis" href="https://2gis.ru/novosibirsk/firm/70000001043893253" target="_blank">
+							<picture><source srcset="img/icons/2gis-logo.webp" type="image/webp"><img src="img/icons/2gis-logo.png" alt="2GIS"></picture>
+							<picture><source srcset="img/icons/stars.webp" type="image/webp"><img src="img/icons/stars.png" alt="stars"></picture>
+							<picture><source srcset="img/icons/2gis-map.webp" type="image/webp"><img src="img/icons/2gis-map.png" alt="2GIS map"></picture>
+						</a>
+						<a class="reviews__partner yandex" href="https://yandex.ru/MaPS/org/novaya_zarya/232134970827/reviews/?ll=82.917300%2C55.032650&z=12" target="_blank">
+							<picture><source srcset="img/icons/yandex.webp" type="image/webp"><img src="img/icons/yandex.png" alt="2GIS"></picture>
+							<picture><source srcset="img/icons/stars.webp" type="image/webp"><img src="img/icons/stars.png" alt="stars"></picture>
+							<picture><source srcset="img/icons/map-marker.webp" type="image/webp"><img src="img/icons/map-marker.png" alt="2GIS map"></picture>
+						</a>
+					</div>
+			<section class="page__act-now act-now">
+				<div class="act-now__container _container">
+					<h2 class="act-now__title title">Действуйте <span>сейчас </span> —</h2>
+					<div class="act-now__description">оставьте <span>заявку</span> на расчет стоимости и мы найдем правильное решение</div>
+					<div class="act-now__image act-now__image_phone">
+						<picture><source srcset="img/act-now/phone.webp" type="image/webp"><img src="img/act-now/phone.png" alt="phone"></picture>
+						<picture><source srcset="img/act-now/phone-s.webp" type="image/webp"><img src="img/act-now/phone-s.png" alt="phone"></picture>
+					</div>
+					<form class="act-now__form form" data-ajax="true" data-message="message" action="phpmailer/mail.php" enctype="multipart/form-data" method="POST">
+						<div class="form__line act-now__line form__line_user">
+							<input autocomplete="off" type="text" name="name" data-error="Это поле обязательно для ввода" data-value="Как вас зовут?" class="input _req">
+						</div>
+						<div class="form__line act-now__line form__line_phone">
+							<input autocomplete="off" type="tel" name="numb" data-error="Введите номер в указанном формате" data-value="Введите ваш номер" class="input _req _phone">
+						</div>
+						<button type="submit" class="form__button act-now__btn _btn">Рассчитать стоимость</button>
+						<div class="act-now__info">
+							<picture><source srcset="img/icons/info.webp" type="image/webp"><img src="img/icons/info.png" alt="info"></picture>
+							<p>Нажимая на кнопку вы принимаете <a class="act-now__info_link" href="#">положение и согласие на обработку персональных данных</a></p>
+						</div>
+					</form>
+					<div class="act-now__image act-now__image_tools">
+						<picture><source srcset="img/act-now/items.webp" type="image/webp"><img src="img/act-now/items.png" alt="tools"></picture>
+						<picture><source srcset="img/act-now/items-s.webp" type="image/webp"><img src="img/act-now/items-s.png" alt="tools"></picture>
+					</div>
+				</div>
+			</section>
+			<section id="map" class="page__map map">
+				<h2 class="map__title title"><span>Контакты</span> и адреса</h2>
+				<p class="map__text">г. Новосибирск,
+					ул. Челюскинцев 14/2 офис № 414</p>
+				<div class="map__map">
+					<script id="ymap_lazy" async data-src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A7e5cb8d292f7d127b62cb5f5bfaa1ed0a220038d753349d010a49e6bfac71df0&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=false"></script>
+					</div>
+				</div>
+			</section>
+		</main>
+		<footer class="footer">
+	<div class="footer__content _container">
+		<div class="footer__column">
+			<div class="footer__social">
+				<div class="footer__logo logo">
+					<div class="logo__icon _icon-logo"></div>
+					<div class="logo__name">
+						<div class="logo__subtitle">Новая Заря</div>
+						<div class="logo__suptitle">Центр экспертизы</div>
+					</div>
+				</div>
+				<ul class="footer__list social-list">
+					<li><a href="tg://resolve?domain=@Novaya_Zarya" class="social-list__link" target="_blank"><picture><source srcset="img/icons/tg.svg" type="image/webp"><img src="img/icons/tg.svg" alt="telegramm"></picture></a></li>
+					<li><a href="https://vk.com/ocenka_2020" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vk.svg" type="image/webp"><img src="img/icons/vk.svg" alt="вконтакте"></picture></a></li>
+					<li><a href="https://api.whatsapp.com/send?phone=79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/wa.svg" type="image/webp"><img src="img/icons/wa.svg" alt="watsapp"></picture></a></li>
+					<li><a href="https://viber.click/79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vb.webp" type="image/webp"><img src="img/icons/vb.png" alt="viber"></picture></a></li>
+				</ul>
+			</div>
+			<ul class="footer__menu menu-footer">
+				<li><a href="#about-us__title" class="menu-footer__link _goto">О компании</a></li>
+				<li><a href="#page__services " class="menu-footer__link _goto">Услуги</a></li>
+				<li><a href="#page__steps" class="menu-footer__link _goto">Порядок работы</a></li>
+				<li><a href="#page__certificates" class="menu-footer__link _goto">Лицензии</a></li>
+				<li><a href="#page__reviews" class="menu-footer__link _goto">Отзывы</a></li>
+				<li><a href="#page__map " class="menu-footer__link _goto">Контакты</a></li>
+			</ul>
+			<div class="footer__contacts contacts-footer">
+				<p class="contacts-footer__label">Связаться с нами:</p>
+				<ul class="contacts-footer__list">
+					<li><a href="mailto:Novo-20@mail.ru" class="contacts-footer__link">Novo-20@mail.ru</a></li>
+					<li><a href="tel:+73832589600" class="contacts-footer__link">+7(383) 258-96-00</a></li>
+					<li><a href="tel:+79628389600" class="contacts-footer__link">+7(962) 838-96-00</a></li>
+				</ul>
+			</div>
+			<div class="footer__shedule shedule-footer">
+				<div class="shedule-footer__wrapper">
+					<p class="shedule-footer__label">Режим работы:</p>
+					<div class="shedule-footer__time">
+						<p>
+							<picture><source srcset="img/icons/shedule.svg" type="image/webp"><img src="img/icons/shedule.svg" alt="часы"></picture>
+							<span>Пн-Пт с 10:00 до 18:00</span>
+						</p>
+						<p>Сб-Вс выходной</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p class="footer__text">Внимание! Данный сайт носит информационный характер и ни при каких условиях не является публичной офертой, которая определяется положениями Статьи 437. Гражданского кодекса РФ. Для получения подробной информации о стоимости указанных услуг, пожалуйста, обращайтесь к нашим менеджерам.</p>
+	</div>
+</footer>
+	</div>
+	<div class="popup popup_main">
+	<div class="popup__content">
+		<div class="popup__body">
+			<div class="popup__close"></div>
+			<h2 class="popup__title title">Оставьте заявку прямо
+				<span>сейчас!</span>
+			</h2>
+			<h3 class="popup__subtitle">Перезвоним Вам в кратчайшие сроки!</h3>
+			<form class="act-now__form form popup__form" data-ajax="true" data-message="message" action="phpmailer/mail.php" enctype="multipart/form-data" method="POST">
+				<div class="form__line act-now__line form__line_user">
+					<input autocomplete="off" type="text" name="name" data-error="Ошибка" data-value="Как вас зовут?" class="input _req">
+				</div>
+				<div class="form__line act-now__line form__line_phone">
+					<input autocomplete="off" type="tel" name="numb" data-error="Ошибка" data-value="Введите ваш номер" class="input _req _phone">
+				</div>
+				<button type="submit" class="form__button act-now__btn _btn">Отправить</button>
+				<div class="act-now__info">
+					<picture><source srcset="img/icons/info.webp" type="image/webp"><img src="img/icons/info.png" alt="info"></picture>
+					<p>Нажимая на кнопку вы принимаете <a class="act-now__info_link" href="#">положение и согласие на обработку персональных данных</a></p>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="popup popup_bank-details">
+	<div class="popup__content">
+		<div class="popup__body popup__body_bank-details">
+			<div class="popup__close"></div>
+			<div class="popup__bank-details">Общество с ограниченной ответственностью “Новая Заря”<br>
+				ИНН 5407978603<br>
+				КПП 166001001<br>
+				Юридический адрес: 630004,<br> Новосибирская обл., г. Новосибирск,<br> ул. Челюскинцев, д. 14/2, оф. 414<br>
+				ОГРН: 1205400029890.</div>
+		</div>
+	</div>
+</div>
+<div class="popup popup_message">
+	<div class="popup__content">
+		<div class="popup__body popup__body_message">
+			<div class="popup__close"></div>
+			<div class="popup__message">
+				<h2 class="title message__title">Заявка <span>отправлена!</span></h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="js/vendors.min.js?version=2.0.0.0"></script>
+<script src="js/app.min.js?version=2.0.0.2"></script>
+</body>
+
+</html>

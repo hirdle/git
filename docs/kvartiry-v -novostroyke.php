@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+     <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(67135243, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/67135243" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	<title>Строительная экспертиза квартиры в новостройке в Новосибирске | Услуги специалистов в нашей компании</title>
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no">
+	<!-- <link rel="stylesheet" href="css/style.min.css?version=2.0.0.0"> -->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Строительная экспертиза квартиры в новостройке – в Новосибирске наша компания оказывает данную услугу. Наши эксперты созвонятся с вами и обсудят детали. Оставьте заявку на нашем сайте или звоните по размещенным контактам.">
+</head>
+
+<body>
+	<div class="wrapper">
+		<header class="header">
+	<div class="header__content">
+		<div class="header__top top-header">
+			<div class="top-header__container _container">
+				<div class="top-header__item top-header__item_adress">
+					<picture><source srcset="img/icons/pin.svg" type="image/webp"><img class="top-header__icon" src="img/icons/pin.svg" alt="Pin"></picture>
+					<span class="top-header__text">г.Новосибирск, ул. Челюскинцев 14/2 офис № 414</span>
+				</div>
+				<div class="top-header__item top-header__item_mail">
+					<picture><source srcset="img/icons/mail.svg" type="image/webp"><img class="top-header__icon" src="img/icons/mail.svg" alt="mail"></picture>
+					<span class="top-header__text">Novo-20@mail.ru</span>
+				</div>
+				<a class="top-header__item top-header__item_phone" href="tel:+73832589600">
+					<picture><source srcset="img/icons/phone.svg" type="image/webp"><img class="top-header__icon" src="img/icons/phone.svg" alt="phone"></picture>
+					<span class="top-header__text">+7(383) 258-96-00</span>
+				</a>
+				<div class="top-header__item top-header__item_shedule">
+					<picture><source srcset="img/icons/shedule.svg" type="image/webp"><img class="top-header__icon" src="img/icons/shedule.svg" alt="shedule"></picture>
+					<span class="top-header__text">Пн-Пт с 10:00 до 18:00</span>
+				</div>
+				<ul class="top-header__list social-list">
+					<li><a href="tg://resolve?domain=@Novaya_Zarya" class="social-list__link" target="_blank"><picture><source srcset="img/icons/tg.svg" type="image/webp"><img src="img/icons/tg.svg" alt="telegramm"></picture></a></li>
+					<li><a href="https://vk.com/ocenka_2020" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vk.svg" type="image/webp"><img src="img/icons/vk.svg" alt="вконтакте"></picture></a></li>
+					<li><a href="https://api.whatsapp.com/send?phone=79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/wa.svg" type="image/webp"><img src="img/icons/wa.svg" alt="watsapp"></picture></a></li>
+					<li><a href="https://viber.click/79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vb.webp" type="image/webp"><img src="img/icons/vb.png" alt="viber"></picture></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header__wrapper-bg">
+			<div class="header__bottom bottom-header">
+				<div class="bottom-header__container _container">
+					<div class="bottom-header__logo logo">
+						<div class="logo__icon _icon-logo"></div>
+						<div class="logo__name">
+							<div class="logo__subtitle">Новая Заря</div>
+							<div class="logo__suptitle">Центр экспертизы</div>
+						</div>
+					</div>
+					<div class="bottom-header__menu menu">
+						<div data-da=".bottom-header__container, 992, 3" class="menu__icon icon-menu">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+						<nav class="menu__body">
+							<ul class="menu__list">
+								<li><a href="#about-us" class="menu__link  _goto">О компании</a></li>
+								<li><a href="#services" class="menu__link _goto">Услуги</a></li>
+								<li><a href="#steps" class="menu__link _goto">Порядок работы</a></li>
+								<li><a href="#certificates" class="menu__link _goto">Лицензии</a></li>
+								<li><a href="#reviews" class="menu__link _goto">Отзывы</a></li>
+								<li><a href="#map" class="menu__link _goto">Контакты</a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="bottom-header__button"> <a href="#main" class="bottom-header__btn _btn _popup-link">Обратный звонок</a></div>
+				</div>
+			</div>
+			<div class="header__welcome welcome">
+				<div class="welcome__container _container">
+					<div class="welcome__column">
+						<h1 class="welcome__title title">Строительная экспертиза квартиры в новостройке в Новосибирске</h1>
+
+						<div class="welcome__label" style="margin: 80px 0;">
+							<picture><source srcset="img/icons/info.webp" type="image/webp"><img class="welcome__icon" src="img/icons/info.png" alt="info"></picture>
+							<p class="welcome__text">Работа по <a href="#">договору</a> и точно в <a href="">срок</a></p>
+						</div>
+
+						<div class="flex_main_btns_block">
+							<a href="#main" class="welcome__btn _btn _popup-link">Бесплатная консультация</a>
+						</div>
+						
+						
+					</div>
+					<div class="welcome__image">
+						<!-- <picture><source srcset="img/welcome/man.webp" type="image/webp"><img src="img/welcome/man.png" alt="man"></picture> -->
+						<picture>
+							<source srcset="img/welcome/man-s.webp" media="(max-width: 600px)">
+							<source srcset="img/welcome/man.webp">
+							<img src="img/welcome/man.webp" alt="man">
+						</picture>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<style>
+	.c_text {
+		padding: 30px 0; 
+		white-space: pre-wrap;
+		word-wrap: break-word;
+		font-size: 20px;
+		line-height: 120%;
+		margin-bottom: 80px;
+	}
+	.c_text h2 {
+		font-weight: 600;
+		font-size: 26px;
+		margin: 0;
+		padding: 0;
+		margin-top: 10px;
+	}
+</style>
+		<main class="page">
+
+			<section class="_container c_text">
+Строительная экспертиза жилого пространства в недавно построенном доме представляет собой обследование, направленное на выявление потенциальных дефектов и соответствие нормативам. Инженер проводит анализ несущих элементов, инженерных коммуникаций и качества отделочных работ, предусмотренных контрактом между застройщиком и будущим владельцем.
+ 
+Команда экспертов внимательно проверяет каждый “уголок” недвижимости, используя современные методики и измерительное оборудование. Их главная цель — гарантировать безопасность и надежность жилья, выявляя малейшие отступления от строительных норм и стандартов. К примеру, специалисты могут определить микротрещины в стенах или несоответствия в электропроводке, которые могут остаться незамеченными.
+
+<h2>Защита интересов покупателя: строительная экспертиза квартиры в новостройке</h2>
+
+Приобретение недвижимости в новостройке сопряжено с необходимостью проверки качества жилья. Законодательство защищает права собственника, предоставляя механизм предъявления претензий застройщику при обнаружении существенных дефектов.
+ 
+Что именно может стать поводом для строительной экспертизы? Это могут быть:
+— Видимые трещины в стенах
+— Значительные геометрические искажения поверхностей
+— Неровности пола или стен
+— Проблемы с инженерными коммуникациями
+ 
+Федеральный закон "Об участии в долевом строительстве" четко регламентирует сроки предъявления претензий. Для капитальных строений гарантийный период составляет 5 лет, а для инженерных систем — 3 года с момента подписания акта приема-передачи.
+ 
+Застройщики нередко пытаются оспорить наличие брака, утверждая, что обнаруженные недостатки — результат неправильной эксплуатации жилья собственником. Именно поэтому независимая экспертиза становится основным инструментом объективной оценки состояния квартиры.
+ 
+Экспертное исследование позволяет:
+— Зафиксировать реальное состояние объекта
+— Определить причины возникновения дефектов
+— Установить виновную сторону
+— Подготовить документальную базу для возможной судебной перспективы
+ 
+Помните, что право на проведение строительной экспертизы сохраняется в течение всего гарантийного срока. Квалифицированное обследование поможет защитить интересы собственника и обеспечить качество приобретенной недвижимости.
+
+<h2>Цели и задачи комплексной диагностики жилого пространства</h2>
+
+Каждый владелец новой квартиры стремится получить надежное и безопасное жилье, поэтому строительно-техническая экспертиза объектов позволяет проверить качество и соответствие всех характеристик приобретаемой недвижимости.
+
+<b>Основные направления экспертного исследования</b>
+1. Оценка качества строительных работ. Специалисты проверяют соответствие выполненных работ существующим строительным нормативам. К примеру, они могут выявить нарушения технологии монтажа.
+2. Проверка технической документации. Детальному анализу подвергаются фактическая площадь помещений, соответствие проектной документации и объем выполненных работ.
+3. Причины возможных дефектов. Эксперты устанавливают источники преждевременного разрушения конструкций, ускоренного износа отдельных элементов и скрытых дефектов строительства.
+ 
+Объектом исследования могут стать несущие конструкции, инженерные коммуникации (отопление, водоснабжение, электропроводка), материалы стен, пола, перекрытий и отдельные архитектурные элементы.
+ 
+Конечная цель строительно-технической экспертизы — предоставить владельцу квартиры полную и объективную информацию о состоянии жилья, потенциальных рисках и необходимости проведения ремонтных работ.
+ 
+Каждое экспертное исследование индивидуально и согласовывается с заказчиком, учитывая его конкретные потребности и вопросы.
+
+<h2>Услуга профессиональной диагностики ремонта в новостройке</h2>
+
+Приобретение недвижимости в новостройке часто сопряжено с необходимостью дополнительной отделки. Покупатели стремятся получить комфортное жилое пространство, готовое к немедленному заселению, и нередко соглашаются доплатить застройщику за качественный ремонт.
+ 
+Однако реальность может существенно отличаться от ожиданий. Недобросовестные подрядчики нередко экономят на материалах, используя дешевые компоненты.
+ 
+Риски для покупателя включают:
+— Использование низкокачественных строительных материалов
+— Несоответствие объема выполненных работ заявленным параметрам
+
+<h2>Почему проведение экспертизы становится необходимостью?</h2>
+
+Ниже мы привели причины оценки качества ремонта в новостройке.
+ 
+1. Объективная оценка качества ремонта. Специалисты проводят замеры геометрических параметров помещений и проверку соответствия нормативам строительства.
+2. Выявление скрытых дефектов. Эксперт способен определить качество стяжки пола, особенности укладки ламината, состояние штукатурных работ и потенциальные риски преждевременного разрушения отделки.
+3. Документальное подтверждение нарушений. Экспертиза здания и помещений предоставляет детальный отчет о выявленных недостатках, расчет стоимости необходимого ремонта и юридически значимое заключение для предъявления претензий.
+ 
+Также важна повторная строительно-техническая экспертиза здания в случаях, когда ранее к застройщику уже предъявлялись претензии. Она позволяет убедиться в полном устранении предыдущих замечаний и готовности помещения к дальнейшей отделке.
+ 
+Профессиональное обследование — это реальный инструмент защиты прав и инвестиций нового владельца недвижимости.
+
+<h2>Виды комплексной оценки новостроек</h2>
+
+Наши специалисты из центра экспертизы и оценки предлагают многоуровневую диагностику, которая гарантирует безопасность и надежность вашей будущей недвижимости.
+ 
+<b>Основные направления экспертного исследования:</b>
+1. Структурная диагностика объекта. Эксперты проводят анализ несущих конструкций, включающий оценку качества строительных работ, проверку прочности и целостности основных элементов здания и выявление потенциальных дефектов и рисков.
+2. Планировочная экспертиза. Сюда входит проверка соответствия перепланировки строительным нормативам и оценка безопасности внесенных изменений.
+3. Анализ отделочных работ. В процесс строительной экспертизы входит оценка качества стяжки пола, проверка черновой штукатурки и анализ используемых материалов и технологий.
+
+<b>Инструменты экспертного исследования</b>
+Профессиональная диагностика предполагает использование специального измерительного оборудования:
+— Анемометры для оценки воздушных потоков
+— Гигрометры для измерения влажности
+— Тепловизоры для выявления температурных аномалий
+— Лазерные уровни и дальномеры для точных измерений
+ 
+В основные этапы проведения строительно-технические экспертизы после приемки квартиры входит визуальный осмотр помещений, изучение проектной документации, инструментальные замеры и отбор проб материалов для лабораторных исследований (при необходимости).
+ 
+Каждое экспертное заключение — это объективная оценка состояния недвижимости вместе с рекомендациями по устранению возможных недостатков.
+
+<h2>Заключение эксперта после строительной экспертизы и независимой оценки</h2>
+
+Получение профессионального экспертного заключения после приемки квартиры у застройщика становится важным моментом для защиты интересов нового владельца. Документ служит не просто формальной бумагой, а мощным инструментом в решении потенциальных строительных споров.
+ 
+В содержание экспертного заключения входит технический анализ с исчерпывающим перечнем выявленных дефектов, фото документацией каждого недостатка, визуальные и инструментальные подтверждения нарушений.
+ 
+Часть нормативной экспертизы – это идентификация нарушенных строительных стандартов, сопоставление фактического состояния с проектной документацией и оценка соответствия техническим регламентам.
+ 
+Финансовая оценка – точная сметная стоимость устранения обнаруженных недочетов, калькуляция необходимых ремонтных работ и рекомендации по возможной компенсации.
+ 
+<b>Стратегии действий для покупателя:</b>
+1. Претензионный порядок. Официальное обращение к застройщику и требование полного устранения выявленных недостатков. Здесь будет риск неполного решения проблемы.
+2. Самостоятельное исправление. Проведение ремонта за собственный счет и взыскание понесенных расходов через судебные инстанции. В этом случае будет высокая вероятность затяжных судебных разбирательств.
+3. Корректировка стоимости недвижимости – наиболее популярный сценарий среди покупателей. Принцип этого подхода в уменьшение договорной цены на сумму выявленных дефектов, но будет необходимость самостоятельного устранения недостатков.
+ 
+<h2>Заказать судебную экспертизу недвижимости в Новосибирске</h2>
+
+Правовое поле строительного рынка требует от покупателей недвижимости профессионального подхода к оценке качества выполненного ремонта в квартире. Строительная экспертиза ремонтных работ становится доказательством в судебных спорах с застройщиками.
+ 
+Наш центр оценки имеет все необходимые разрешительные документы и готов проводить строительно-технические экспертизы любой сложности.
+ 
+Наша цель — предоставить вам полную и достоверную информацию о качестве приобретаемой недвижимости, защитить ваши интересы и обеспечить комфортное проживание.
+			</section>
+			  
+						  
+			<section id="steps" class="page__steps steps">
+				<div class="steps__container _container">
+					<h2 class="steps__title title">Строим работу с вами в <span>5 этапов</span></h2>
+					<ul class=" steps__controls controls">
+						<li class="controls__item _active" data-index="0"><span>Экспертная консультация</span></li>
+						<li class="controls__item" data-index="1"><span>Заключение договора</span></li>
+						<li class="controls__item" data-index="2"><span>Выезд на обьект</span></li>
+						<li class="controls__item" data-index="3"><span>Обработка данных</span></li>
+						<li class="controls__item" data-index="4"><span>Выдача отчета</span></li>
+					</ul>
+					<div class="steps__body">
+						<div class="steps__slider _swiper">
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/01.webp" type="image/webp"><img src="img/steps/01.jpg" alt="пишущая рука"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 1</div>
+										<h3 class="slide-steps__title">Экспертная консультация и оценка перспектив</h3>
+										<p class="slide-steps__description">Мы изучаем все детали вопроса и связанную с ним оценочную практику.<br>Вы получаете оценку сроков и стоимости</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body slide-steps__body_2">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/02.webp" type="image/webp"><img src="img/steps/02.jpg" alt="люди пожимают руки друг другу"></picture>
+									</div>
+									<div class="slide-steps__column slide-steps__column_2">
+										<div class="slide-steps__counter">этап 2</div>
+										<h3 class="slide-steps__title">Заключение договора</h3>
+										<p class="slide-steps__description">Изучение предоставленых документов</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/03.webp" type="image/webp"><img src="img/steps/03.jpg" alt="строительство дома"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 3</div>
+										<h3 class="slide-steps__title">Выезд на объект</h3>
+										<p class="slide-steps__description">Проведение осмотра и фотосъемки с составлением акта</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/04.webp" type="image/webp"><img src="img/steps/04.jpg" alt="человек за ноутбуком"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 4</div>
+										<h3 class="slide-steps__title">Обработка данных</h3>
+										<p class="slide-steps__description">Обработка полученных данных</p>
+									</div>
+								</div>
+							</div>
+							<div class="steps__slide slide-steps">
+								<div class="slide-steps__body">
+									<div class="slide-steps__image">
+										<picture><source srcset="img/steps/05.webp" type="image/webp"><img src="img/steps/05.jpg" alt="человек протягивает документ другому человеку"></picture>
+									</div>
+									<div class="slide-steps__column">
+										<div class="slide-steps__counter">этап 5</div>
+										<h3 class="slide-steps__title">Выдача отчета</h3>
+										<p class="slide-steps__description">Этот документ имеет юридическую силу в различных инстанциях</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="steps__bullets bullets"></div>
+						<div class="steps__arrows arrows">
+							<div class="arrow arrow__left">
+								<picture><source srcset="img/icons/arrow.svg" type="image/webp"><img src="img/icons/arrow.svg" alt="arrow"></picture>
+							</div>
+							<div class="arrow arrow__right">
+								<picture><source srcset="img/icons/arrow.svg" type="image/webp"><img src="img/icons/arrow.svg" alt="arrow"></picture>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="certificates" class="page__certificates certificates">
+				<div class="certificates__container _container">
+					<h2 class="certificates__title title">Лицензии и <span>сертификаты</span></h2>
+					<p class="certificates__description">Все необходимые сертификаты и лицензии <br>на право выполнения работ, аттестация сотрудников и сертификация ISO</p>
+					<div class="certificates__body">
+						<div class="certificates__slider _swiper _gallery">
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/01-b.jpg"> <picture><source srcset="img/certificates/01.webp" type="image/webp"><img src="img/certificates/01.jpg" alt="сертификат"></picture></a>
+							</div>
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/02-b.jpg"><picture><source srcset="img/certificates/02.webp" type="image/webp"><img src="img/certificates/02.jpg" alt="сертификат"></picture></a>
+							</div>
+							<div class="certificates__slide _ibg">
+								<a href="img/certificates/04-b.jpg"><picture><source srcset="img/certificates/04.webp" type="image/webp"><img src="img/certificates/04.jpg" alt="сертификат"></picture></a>
+							</div>
+						</div>
+						<div class="certificates__progressbar"></div>
+					</div>
+				</div>
+			</section>
+			<section id="reviews" class="page__reviews reviews">
+				<div class="reviews__container">
+					<h2 class="reviews__title title"><span>Отзывы</span> о нас</h2>
+				    <h3 class="reviews__subtitle">Читайте и оставляйте отзывы о нас</h3>
+					<div class="reviews__content">
+						<a class="reviews__partner two-gis" href="https://2gis.ru/novosibirsk/firm/70000001043893253" target="_blank">
+							<picture><source srcset="img/icons/2gis-logo.webp" type="image/webp"><img src="img/icons/2gis-logo.png" alt="2GIS"></picture>
+							<picture><source srcset="img/icons/stars.webp" type="image/webp"><img src="img/icons/stars.png" alt="stars"></picture>
+							<picture><source srcset="img/icons/2gis-map.webp" type="image/webp"><img src="img/icons/2gis-map.png" alt="2GIS map"></picture>
+						</a>
+						<a class="reviews__partner yandex" href="https://yandex.ru/MaPS/org/novaya_zarya/232134970827/reviews/?ll=82.917300%2C55.032650&z=12" target="_blank">
+							<picture><source srcset="img/icons/yandex.webp" type="image/webp"><img src="img/icons/yandex.png" alt="2GIS"></picture>
+							<picture><source srcset="img/icons/stars.webp" type="image/webp"><img src="img/icons/stars.png" alt="stars"></picture>
+							<picture><source srcset="img/icons/map-marker.webp" type="image/webp"><img src="img/icons/map-marker.png" alt="2GIS map"></picture>
+						</a>
+					</div>
+			<section class="page__act-now act-now">
+				<div class="act-now__container _container">
+					<h2 class="act-now__title title">Действуйте <span>сейчас </span> —</h2>
+					<div class="act-now__description">оставьте <span>заявку</span> на расчет стоимости и мы найдем правильное решение</div>
+					<div class="act-now__image act-now__image_phone">
+						<picture><source srcset="img/act-now/phone.webp" type="image/webp"><img src="img/act-now/phone.png" alt="phone"></picture>
+						<picture><source srcset="img/act-now/phone-s.webp" type="image/webp"><img src="img/act-now/phone-s.png" alt="phone"></picture>
+					</div>
+					<form class="act-now__form form" data-ajax="true" data-message="message" action="phpmailer/mail.php" enctype="multipart/form-data" method="POST">
+						<div class="form__line act-now__line form__line_user">
+							<input autocomplete="off" type="text" name="name" data-error="Это поле обязательно для ввода" data-value="Как вас зовут?" class="input _req">
+						</div>
+						<div class="form__line act-now__line form__line_phone">
+							<input autocomplete="off" type="tel" name="numb" data-error="Введите номер в указанном формате" data-value="Введите ваш номер" class="input _req _phone">
+						</div>
+						<button type="submit" class="form__button act-now__btn _btn">Рассчитать стоимость</button>
+						<div class="act-now__info">
+							<picture><source srcset="img/icons/info.webp" type="image/webp"><img src="img/icons/info.png" alt="info"></picture>
+							<p>Нажимая на кнопку вы принимаете <a class="act-now__info_link" href="#">положение и согласие на обработку персональных данных</a></p>
+						</div>
+					</form>
+					<div class="act-now__image act-now__image_tools">
+						<picture><source srcset="img/act-now/items.webp" type="image/webp"><img src="img/act-now/items.png" alt="tools"></picture>
+						<picture><source srcset="img/act-now/items-s.webp" type="image/webp"><img src="img/act-now/items-s.png" alt="tools"></picture>
+					</div>
+				</div>
+			</section>
+			<section id="map" class="page__map map">
+				<h2 class="map__title title"><span>Контакты</span> и адреса</h2>
+				<p class="map__text">г. Новосибирск,
+					ул. Челюскинцев 14/2 офис № 414</p>
+				<div class="map__map">
+					<script id="ymap_lazy" async data-src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A7e5cb8d292f7d127b62cb5f5bfaa1ed0a220038d753349d010a49e6bfac71df0&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=false"></script>
+					</div>
+				</div>
+			</section>
+		</main>
+		<footer class="footer">
+	<div class="footer__content _container">
+		<div class="footer__column">
+			<div class="footer__social">
+				<div class="footer__logo logo">
+					<div class="logo__icon _icon-logo"></div>
+					<div class="logo__name">
+						<div class="logo__subtitle">Новая Заря</div>
+						<div class="logo__suptitle">Центр экспертизы</div>
+					</div>
+				</div>
+				<ul class="footer__list social-list">
+					<li><a href="tg://resolve?domain=@Novaya_Zarya" class="social-list__link" target="_blank"><picture><source srcset="img/icons/tg.svg" type="image/webp"><img src="img/icons/tg.svg" alt="telegramm"></picture></a></li>
+					<li><a href="https://vk.com/ocenka_2020" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vk.svg" type="image/webp"><img src="img/icons/vk.svg" alt="вконтакте"></picture></a></li>
+					<li><a href="https://api.whatsapp.com/send?phone=79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/wa.svg" type="image/webp"><img src="img/icons/wa.svg" alt="watsapp"></picture></a></li>
+					<li><a href="https://viber.click/79628389600" class="social-list__link" target="_blank"><picture><source srcset="img/icons/vb.webp" type="image/webp"><img src="img/icons/vb.png" alt="viber"></picture></a></li>
+				</ul>
+			</div>
+			<ul class="footer__menu menu-footer">
+				<li><a href="#about-us__title" class="menu-footer__link _goto">О компании</a></li>
+				<li><a href="#page__services " class="menu-footer__link _goto">Услуги</a></li>
+				<li><a href="#page__steps" class="menu-footer__link _goto">Порядок работы</a></li>
+				<li><a href="#page__certificates" class="menu-footer__link _goto">Лицензии</a></li>
+				<li><a href="#page__reviews" class="menu-footer__link _goto">Отзывы</a></li>
+				<li><a href="#page__map " class="menu-footer__link _goto">Контакты</a></li>
+			</ul>
+			<div class="footer__contacts contacts-footer">
+				<p class="contacts-footer__label">Связаться с нами:</p>
+				<ul class="contacts-footer__list">
+					<li><a href="mailto:Novo-20@mail.ru" class="contacts-footer__link">Novo-20@mail.ru</a></li>
+					<li><a href="tel:+73832589600" class="contacts-footer__link">+7(383) 258-96-00</a></li>
+					<li><a href="tel:+79628389600" class="contacts-footer__link">+7(962) 838-96-00</a></li>
+				</ul>
+			</div>
+			<div class="footer__shedule shedule-footer">
+				<div class="shedule-footer__wrapper">
+					<p class="shedule-footer__label">Режим работы:</p>
+					<div class="shedule-footer__time">
+						<p>
+							<picture><source srcset="img/icons/shedule.svg" type="image/webp"><img src="img/icons/shedule.svg" alt="часы"></picture>
+							<span>Пн-Пт с 10:00 до 18:00</span>
+						</p>
+						<p>Сб-Вс выходной</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p class="footer__text">Внимание! Данный сайт носит информационный характер и ни при каких условиях не является публичной офертой, которая определяется положениями Статьи 437. Гражданского кодекса РФ. Для получения подробной информации о стоимости указанных услуг, пожалуйста, обращайтесь к нашим менеджерам.</p>
+	</div>
+</footer>
+	</div>
+	<div class="popup popup_main">
+	<div class="popup__content">
+		<div class="popup__body">
+			<div class="popup__close"></div>
+			<h2 class="popup__title title">Оставьте заявку прямо
+				<span>сейчас!</span>
+			</h2>
+			<h3 class="popup__subtitle">Перезвоним Вам в кратчайшие сроки!</h3>
+			<form class="act-now__form form popup__form" data-ajax="true" data-message="message" action="phpmailer/mail.php" enctype="multipart/form-data" method="POST">
+				<div class="form__line act-now__line form__line_user">
+					<input autocomplete="off" type="text" name="name" data-error="Ошибка" data-value="Как вас зовут?" class="input _req">
+				</div>
+				<div class="form__line act-now__line form__line_phone">
+					<input autocomplete="off" type="tel" name="numb" data-error="Ошибка" data-value="Введите ваш номер" class="input _req _phone">
+				</div>
+				<button type="submit" class="form__button act-now__btn _btn">Отправить</button>
+				<div class="act-now__info">
+					<picture><source srcset="img/icons/info.webp" type="image/webp"><img src="img/icons/info.png" alt="info"></picture>
+					<p>Нажимая на кнопку вы принимаете <a class="act-now__info_link" href="#">положение и согласие на обработку персональных данных</a></p>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="popup popup_bank-details">
+	<div class="popup__content">
+		<div class="popup__body popup__body_bank-details">
+			<div class="popup__close"></div>
+			<div class="popup__bank-details">Общество с ограниченной ответственностью “Новая Заря”<br>
+				ИНН 5407978603<br>
+				КПП 166001001<br>
+				Юридический адрес: 630004,<br> Новосибирская обл., г. Новосибирск,<br> ул. Челюскинцев, д. 14/2, оф. 414<br>
+				ОГРН: 1205400029890.</div>
+		</div>
+	</div>
+</div>
+<div class="popup popup_message">
+	<div class="popup__content">
+		<div class="popup__body popup__body_message">
+			<div class="popup__close"></div>
+			<div class="popup__message">
+				<h2 class="title message__title">Заявка <span>отправлена!</span></h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="js/vendors.min.js?version=2.0.0.0"></script>
+<script src="js/app.min.js?version=2.0.0.2"></script>
+</body>
+
+</html>
