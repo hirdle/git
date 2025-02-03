@@ -3887,7 +3887,7 @@ main {
   .slide-steps__image {
     position: absolute;
     bottom: 0;
-    left: 0;
+    left: 35px;
   }
 
   .slide-steps__image img {
